@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cf7d6a2ff1c1442b3d866da663bcc0, type: 3}
+  m_Name: Spear
+  m_EditorClassIdentifier: 
+  projectileName: Spear
+  sprite: {fileID: 6108012597462862368, guid: 4384fb45034b9d94b8b0826117fccb54, type: 3}
+  damage: 3
+  speed: 3
+  fireRate: 3
+  scale: 0.4
+  shouldRichochet: 0
+  shouldStickToWalls: 0
+  shouldSpin: 0
+  spinSpeed: 1

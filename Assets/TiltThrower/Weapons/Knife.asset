@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cf7d6a2ff1c1442b3d866da663bcc0, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  projectileName: Knife
+  sprite: {fileID: 6764707825347140516, guid: 1acb2997f9d56704ba29b3de6b4a6de8, type: 3}
+  damage: 1
+  speed: 2
+  fireRate: 1
+  scale: 0.4
+  shouldRichochet: 1
+  shouldStickToWalls: 0
+  shouldSpin: 1
+  spinSpeed: 5
